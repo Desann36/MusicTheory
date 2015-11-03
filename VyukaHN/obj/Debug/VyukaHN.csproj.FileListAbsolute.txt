@@ -1,0 +1,8 @@
+C:\Users\DL\Desktop\VyukaHN\VyukaHN\bin\VyukaHN.dll.config
+C:\Users\DL\Desktop\VyukaHN\VyukaHN\bin\VyukaHN.dll
+C:\Users\DL\Desktop\VyukaHN\VyukaHN\bin\VyukaHN.pdb
+C:\Users\DL\Desktop\VyukaHN\VyukaHN\obj\Debug\VyukaHN.csprojResolveAssemblyReference.cache
+C:\Users\DL\Desktop\VyukaHN\VyukaHN\obj\Debug\VyukaHN.Properties.Resources.resources
+C:\Users\DL\Desktop\VyukaHN\VyukaHN\obj\Debug\VyukaHN.csproj.GenerateResource.Cache
+C:\Users\DL\Desktop\VyukaHN\VyukaHN\obj\Debug\VyukaHN.dll
+C:\Users\DL\Desktop\VyukaHN\VyukaHN\obj\Debug\VyukaHN.pdb
